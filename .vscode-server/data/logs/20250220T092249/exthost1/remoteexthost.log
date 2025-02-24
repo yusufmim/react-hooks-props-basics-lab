@@ -1,0 +1,6 @@
+2025-02-20 09:22:52.371 [info] Extension host with pid 1163 started
+2025-02-20 09:22:52.399 [info] Lock '/home/yusufmim/.vscode-server/data/User/workspaceStorage/52a727d9eb85ed8797728707ea5d6d7e/vscode.lock': Lock acquired.
+2025-02-20 09:22:52.545 [info] Eager extensions activated
+2025-02-20 09:49:32.134 [info] Extension host terminating: received terminate message from renderer
+2025-02-20 09:49:32.153 [info] Lock '/home/yusufmim/.vscode-server/data/User/workspaceStorage/52a727d9eb85ed8797728707ea5d6d7e/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2025-02-20 09:49:32.154 [info] Extension host with pid 1163 exiting with code 0

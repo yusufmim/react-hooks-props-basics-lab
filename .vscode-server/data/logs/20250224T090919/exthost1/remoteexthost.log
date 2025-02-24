@@ -1,0 +1,350 @@
+2025-02-24 09:09:20.805 [info] Extension host with pid 1514 started
+2025-02-24 09:09:20.824 [info] Lock '/home/yusufmim/.vscode-server/data/User/workspaceStorage/52a727d9eb85ed8797728707ea5d6d7e/vscode.lock': Lock acquired.
+2025-02-24 09:09:20.850 [info] Eager extensions activated
+2025-02-24 09:09:58.176 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-02-24 09:09:58.178 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2025-02-24 09:09:58.178 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-02-24 09:09:58.324 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2025-02-24 09:09:58.324 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2025-02-24 09:09:58.642 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-02-24 09:09:58.792 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2175
+2025-02-24 09:09:59.348 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2175
+2025-02-24 09:38:25.894 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2175
+2025-02-24 09:38:39.595 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2175
+2025-02-24 09:38:44.647 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2175
+2025-02-24 09:38:49.697 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2175
+2025-02-24 09:38:57.664 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2175
+2025-02-24 09:39:02.716 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2176
+2025-02-24 09:39:03.097 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2025-02-24 09:39:07.774 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2189
+2025-02-24 09:39:12.838 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2189
+2025-02-24 09:39:17.910 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2189
+2025-02-24 09:39:22.969 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2189
+2025-02-24 09:39:28.040 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2189
+2025-02-24 09:39:36.141 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2189
+2025-02-24 09:39:41.212 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2189
+2025-02-24 09:39:46.280 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2189
+2025-02-24 09:39:51.335 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2189
+2025-02-24 09:39:56.403 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2189
+2025-02-24 09:40:01.473 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2189
+2025-02-24 09:40:10.130 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2189
+2025-02-24 09:40:15.172 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2189
+2025-02-24 09:40:20.244 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2189
+2025-02-24 09:40:25.307 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2189
+2025-02-24 09:40:30.386 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2189
+2025-02-24 09:40:35.449 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2189
+2025-02-24 09:40:44.076 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2189
+2025-02-24 09:40:49.142 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2189
+2025-02-24 09:40:54.272 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2189
+2025-02-24 09:40:59.341 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2189
+2025-02-24 09:41:04.395 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2191
+2025-02-24 09:41:09.444 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2191
+2025-02-24 09:41:21.123 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2191
+2025-02-24 09:41:26.174 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2192
+2025-02-24 09:41:31.230 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2192
+2025-02-24 09:41:36.076 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-02-24 09:41:36.282 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2192
+2025-02-24 09:41:40.870 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-02-24 09:41:40.871 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-02-24 09:41:40.871 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-02-24 09:41:41.351 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2193
+2025-02-24 09:42:07.223 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2193
+2025-02-24 09:42:12.270 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2194
+2025-02-24 09:42:17.328 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2194
+2025-02-24 09:42:22.374 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2194
+2025-02-24 09:42:31.020 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2194
+2025-02-24 09:44:46.705 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2194
+2025-02-24 09:44:55.357 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2194
+2025-02-24 09:45:00.402 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2194
+2025-02-24 09:45:05.451 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2194
+2025-02-24 09:45:10.510 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2194
+2025-02-24 09:51:53.352 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2194
+2025-02-24 09:51:58.426 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2194
+2025-02-24 09:52:07.094 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2194
+2025-02-24 09:52:12.228 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2194
+2025-02-24 09:52:17.291 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2194
+2025-02-24 09:52:22.352 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2194
+2025-02-24 09:52:27.413 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2194
+2025-02-24 09:52:32.465 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2194
+2025-02-24 09:52:41.094 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2194
+2025-02-24 09:52:46.139 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2194
+2025-02-24 09:52:51.201 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2194
+2025-02-24 09:52:56.272 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2194
+2025-02-24 09:53:01.327 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2194
+2025-02-24 09:53:06.379 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2194
+2025-02-24 09:53:11.438 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2194
+2025-02-24 09:53:20.089 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2194
+2025-02-24 09:53:25.143 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2194
+2025-02-24 09:53:30.197 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2194
+2025-02-24 09:53:35.262 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2194
+2025-02-24 09:53:40.323 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2194
+2025-02-24 09:53:45.379 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2194
+2025-02-24 09:53:54.021 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2194
+2025-02-24 09:53:59.076 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2194
+2025-02-24 09:54:04.120 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2194
+2025-02-24 09:54:09.192 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2195
+2025-02-24 09:54:14.244 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2195
+2025-02-24 09:54:19.304 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2195
+2025-02-24 09:54:27.934 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2195
+2025-02-24 09:54:32.985 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2195
+2025-02-24 09:54:38.040 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2195
+2025-02-24 09:54:43.090 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2195
+2025-02-24 09:54:48.144 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2195
+2025-02-24 09:54:53.214 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2195
+2025-02-24 09:54:58.280 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2195
+2025-02-24 09:55:06.910 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2196
+2025-02-24 09:55:11.959 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2196
+2025-02-24 09:55:17.015 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2196
+2025-02-24 09:55:22.075 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2196
+2025-02-24 09:55:27.125 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2196
+2025-02-24 09:55:32.179 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2196
+2025-02-24 09:55:40.813 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2196
+2025-02-24 09:55:45.897 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2196
+2025-02-24 09:55:59.828 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2196
+2025-02-24 09:56:10.860 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2196
+2025-02-24 09:56:19.505 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2196
+2025-02-24 09:56:24.554 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2196
+2025-02-24 09:56:29.606 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2196
+2025-02-24 09:56:34.663 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2196
+2025-02-24 09:56:39.715 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2196
+2025-02-24 10:03:12.981 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2196
+2025-02-24 10:03:18.034 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2196
+2025-02-24 10:03:26.673 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2196
+2025-02-24 10:03:31.728 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2196
+2025-02-24 10:03:36.782 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2196
+2025-02-24 10:03:41.855 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2196
+2025-02-24 10:04:49.386 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2196
+2025-02-24 10:04:54.466 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2196
+2025-02-24 10:04:59.510 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2196
+2025-02-24 10:06:02.569 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2196
+2025-02-24 10:06:07.615 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2196
+2025-02-24 10:06:12.680 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2196
+2025-02-24 10:06:44.306 [info] Extension host terminating: received terminate message from renderer
+2025-02-24 10:06:44.307 [info] Lock '/home/yusufmim/.vscode-server/data/User/workspaceStorage/52a727d9eb85ed8797728707ea5d6d7e/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2025-02-24 10:06:44.436 [error] Canceled: Canceled
+	at new XT (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:153701)
+	at Uy.U (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:158311)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:155805)
+	at mw.g (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:32221)
+	at mw.executeCommand (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:31725)
+	at r.registerCommand.description (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:31055)
+	at mw.h (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:32741)
+	at mw.g (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:31818)
+	at mw.executeCommand (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:31725)
+	at Object.executeCommand (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:172:37254)
+	at Ah.L [as value] (/home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:997602)
+	at D.B (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at D.C (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2443)
+	at D.fire (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2660)
+	at Object.p [as dispose] (/home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:1020242)
+	at /home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:1026621
+	at Array.forEach (<anonymous>)
+	at b.dispose (/home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:1026607)
+	at cv.<anonymous> (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:106:20084)
+	at cv.dispose (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:106:20180)
+	at cv.<anonymous> (/home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:1000086)
+	at cv.dispose (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:106:20180)
+	at ui (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:25:699)
+	at file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:14992
+	at file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:25:1009
+	at Object.dispose (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+	at PW.eb (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:11919)
+	at file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:9874
+	at Array.map (<anonymous>)
+	at PW.$ (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:9862)
+	at PW.terminate (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:10105)
+	at wC.terminate (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+	at ts (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:190:15080)
+	at Ah.value (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:190:13241)
+	at D.B (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at D.fire (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at Xn.fire (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+	at Gm.A (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:12574)
+	at Ah.value (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:10994)
+	at D.B (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at D.fire (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at m6.acceptChunk (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:7941)
+	at Ah.value (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:7227)
+	at D.B (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at D.fire (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at BA.z (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:21254)
+	at BA.acceptFrame (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:21060)
+	at jA.n (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:19588)
+	at file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:16820
+	at Socket.t (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:14761)
+	at Socket.emit (node:events:518:28)
+	at addChunk (node:internal/streams/readable:561:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+	at Readable.push (node:internal/streams/readable:392:5)
+	at TCP.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2025-02-24 10:06:44.436 [error] Canceled: Canceled
+	at new XT (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:153701)
+	at Uy.U (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:158311)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:155805)
+	at mw.g (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:32221)
+	at mw.executeCommand (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:31725)
+	at r.registerCommand.description (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:31055)
+	at mw.h (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:32741)
+	at mw.g (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:31818)
+	at mw.executeCommand (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:31725)
+	at Object.executeCommand (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:172:37254)
+	at Ah.L [as value] (/home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:997602)
+	at D.B (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at D.C (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2443)
+	at D.fire (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2660)
+	at Object.p [as dispose] (/home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:1020242)
+	at /home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:1026621
+	at Array.forEach (<anonymous>)
+	at b.dispose (/home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:1026607)
+	at cv.<anonymous> (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:106:20084)
+	at cv.dispose (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:106:20180)
+	at cv.<anonymous> (/home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:1000086)
+	at cv.dispose (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:106:20180)
+	at ui (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:25:699)
+	at file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:14992
+	at file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:25:1009
+	at Object.dispose (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+	at PW.eb (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:11919)
+	at file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:9874
+	at Array.map (<anonymous>)
+	at PW.$ (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:9862)
+	at PW.terminate (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:10105)
+	at wC.terminate (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+	at ts (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:190:15080)
+	at Ah.value (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:190:13241)
+	at D.B (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at D.fire (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at Xn.fire (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+	at Gm.A (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:12574)
+	at Ah.value (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:10994)
+	at D.B (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at D.fire (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at m6.acceptChunk (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:7941)
+	at Ah.value (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:7227)
+	at D.B (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at D.fire (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at BA.z (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:21254)
+	at BA.acceptFrame (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:21060)
+	at jA.n (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:19588)
+	at file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:16820
+	at Socket.t (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:14761)
+	at Socket.emit (node:events:518:28)
+	at addChunk (node:internal/streams/readable:561:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+	at Readable.push (node:internal/streams/readable:392:5)
+	at TCP.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2025-02-24 10:06:44.436 [error] Canceled: Canceled
+	at new XT (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:153701)
+	at Uy.U (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:158311)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:155805)
+	at mw.g (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:32221)
+	at mw.executeCommand (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:31725)
+	at r.registerCommand.description (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:31055)
+	at mw.h (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:32741)
+	at mw.g (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:31818)
+	at mw.executeCommand (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:31725)
+	at Object.executeCommand (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:172:37254)
+	at Ah.L [as value] (/home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:997602)
+	at D.B (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at D.C (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2443)
+	at D.fire (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2660)
+	at Object.p [as dispose] (/home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:1020242)
+	at /home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:1026621
+	at Array.forEach (<anonymous>)
+	at b.dispose (/home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:1026607)
+	at cv.<anonymous> (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:106:20084)
+	at cv.dispose (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:106:20180)
+	at cv.<anonymous> (/home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:1000086)
+	at cv.dispose (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:106:20180)
+	at ui (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:25:699)
+	at file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:14992
+	at file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:25:1009
+	at Object.dispose (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+	at PW.eb (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:11919)
+	at file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:9874
+	at Array.map (<anonymous>)
+	at PW.$ (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:9862)
+	at PW.terminate (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:10105)
+	at wC.terminate (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+	at ts (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:190:15080)
+	at Ah.value (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:190:13241)
+	at D.B (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at D.fire (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at Xn.fire (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+	at Gm.A (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:12574)
+	at Ah.value (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:10994)
+	at D.B (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at D.fire (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at m6.acceptChunk (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:7941)
+	at Ah.value (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:7227)
+	at D.B (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at D.fire (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at BA.z (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:21254)
+	at BA.acceptFrame (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:21060)
+	at jA.n (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:19588)
+	at file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:16820
+	at Socket.t (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:14761)
+	at Socket.emit (node:events:518:28)
+	at addChunk (node:internal/streams/readable:561:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+	at Readable.push (node:internal/streams/readable:392:5)
+	at TCP.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2025-02-24 10:06:44.439 [error] Canceled: Canceled
+	at new XT (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:153701)
+	at Uy.U (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:158311)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:155805)
+	at mw.g (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:32221)
+	at mw.executeCommand (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:31725)
+	at r.registerCommand.description (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:31055)
+	at mw.h (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:32741)
+	at mw.g (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:31818)
+	at mw.executeCommand (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:112:31725)
+	at Object.executeCommand (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:172:37254)
+	at set hasGitHubRepositories [as hasGitHubRepositories] (/home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/github/dist/extension.js:2:344164)
+	at /home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/github/dist/extension.js:2:345123
+	at Ah.value (/home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:1117802)
+	at D.B (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at D.C (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2443)
+	at D.fire (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2660)
+	at Object.p [as dispose] (/home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:1020242)
+	at /home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:1026621
+	at Array.forEach (<anonymous>)
+	at b.dispose (/home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:1026607)
+	at cv.<anonymous> (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:106:20084)
+	at cv.dispose (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:106:20180)
+	at cv.<anonymous> (/home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/extensions/git/dist/main.js:2:1000086)
+	at cv.dispose (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:106:20180)
+	at ui (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:25:699)
+	at file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:14992
+	at file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:25:1009
+	at Object.dispose (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+	at PW.eb (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:11919)
+	at file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:9874
+	at Array.map (<anonymous>)
+	at PW.$ (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:9862)
+	at PW.terminate (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:116:10105)
+	at wC.terminate (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+	at ts (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:190:15080)
+	at Ah.value (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:190:13241)
+	at D.B (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at D.fire (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at Xn.fire (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+	at Gm.A (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:12574)
+	at Ah.value (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:10994)
+	at D.B (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at D.fire (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at m6.acceptChunk (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:7941)
+	at Ah.value (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:7227)
+	at D.B (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at D.fire (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at BA.z (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:21254)
+	at BA.acceptFrame (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:21060)
+	at jA.n (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:19588)
+	at file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:16820
+	at Socket.t (file:///home/yusufmim/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/out/vs/workbench/api/node/extensionHostProcess.js:29:14761)
+	at Socket.emit (node:events:518:28)
+	at addChunk (node:internal/streams/readable:561:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+	at Readable.push (node:internal/streams/readable:392:5)
+	at TCP.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2025-02-24 10:06:44.548 [info] Extension host with pid 1514 exiting with code 0

@@ -1,0 +1,23 @@
+2025-02-23 23:56:32.011 [info] 
+
+
+
+
+2025-02-23 23:56:32.053 [info] Extension host agent started.
+2025-02-23 23:56:32.193 [info] [127.0.0.1][89e66cdf][ManagementConnection] New connection established.
+2025-02-23 23:56:32.402 [info] [127.0.0.1][f135cdae][ExtensionHostConnection] New connection established.
+2025-02-23 23:56:32.596 [info] [127.0.0.1][f135cdae][ExtensionHostConnection] <3591> Launched Extension Host Process.
+2025-02-23 23:56:34.414 [error] #2: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST AggregateError [ETIMEDOUT]: 
+2025-02-23 23:56:37.707 [error] #3: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST AggregateError [ETIMEDOUT]: 
+2025-02-24 01:03:32.157 [info] [127.0.0.1][47685447][ManagementConnection] New connection established.
+2025-02-24 01:03:32.292 [info] [127.0.0.1][f43e25b0][ExtensionHostConnection] New connection established.
+2025-02-24 01:03:32.339 [info] [127.0.0.1][f43e25b0][ExtensionHostConnection] <35002> Launched Extension Host Process.
+2025-02-24 01:14:14.918 [info] [127.0.0.1][f6f3728e][ManagementConnection] New connection established.
+2025-02-24 01:14:15.164 [info] [127.0.0.1][9b72a0f6][ExtensionHostConnection] New connection established.
+2025-02-24 01:14:15.168 [info] [127.0.0.1][9b72a0f6][ExtensionHostConnection] <38381> Launched Extension Host Process.
+2025-02-24 01:15:51.020 [info] [127.0.0.1][47685447][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-02-24 01:15:51.238 [info] [127.0.0.1][f43e25b0][ExtensionHostConnection] <35002> Extension Host Process exited with code: 0, signal: null.
+2025-02-24 01:16:01.624 [info] [127.0.0.1][89e66cdf][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-02-24 01:16:01.718 [info] [127.0.0.1][f135cdae][ExtensionHostConnection] <3591> Extension Host Process exited with code: 0, signal: null.
+2025-02-24 02:05:28.351 [info] [127.0.0.1][f6f3728e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-02-24 02:05:28.578 [info] [127.0.0.1][9b72a0f6][ExtensionHostConnection] <38381> Extension Host Process exited with code: 0, signal: null.

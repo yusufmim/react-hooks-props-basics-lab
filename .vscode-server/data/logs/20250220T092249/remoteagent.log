@@ -1,0 +1,15 @@
+2025-02-20 09:22:49.898 [info] 
+
+
+
+
+2025-02-20 09:22:49.898 [info] Extension host agent started.
+2025-02-20 09:22:49.922 [info] Started initializing default profile extensions in extensions installation folder. file:///home/yusufmim/.vscode-server/extensions
+2025-02-20 09:22:49.948 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/yusufmim/.vscode-server/extensions
+2025-02-20 09:22:49.975 [info] [127.0.0.1][88213bac][ManagementConnection] New connection established.
+2025-02-20 09:22:50.439 [info] [127.0.0.1][a01b03d4][ExtensionHostConnection] New connection established.
+2025-02-20 09:22:50.853 [info] [127.0.0.1][a01b03d4][ExtensionHostConnection] <1163> Launched Extension Host Process.
+2025-02-20 09:22:52.461 [error] #2: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST AggregateError [ETIMEDOUT]: 
+2025-02-20 09:22:55.961 [error] #3: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST AggregateError [ETIMEDOUT]: 
+2025-02-20 09:49:32.156 [info] [127.0.0.1][88213bac][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-02-20 09:49:32.180 [info] [127.0.0.1][a01b03d4][ExtensionHostConnection] <1163> Extension Host Process exited with code: 0, signal: null.
