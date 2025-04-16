@@ -1,8 +1,15 @@
-import "@testing-library/jest-dom";
-import { render, screen } from "@testing-library/react";
+//import "@testing-library/jest-dom";
+//import { render, screen } from "@testing-library/react";
 
 import user from "../data/user";
-import About from "../components/About";
+//import About from "../components/About";
+
+import "@testing-library/jest-dom";
+import { render, screen } from "@testing-library/react";
+import App from "../components/About";
+import * as user from "../data/user";
+
+
 
 test("renders a <p> element with the bio from props", () => {
   render(<About bio="I made this" links={user.links} />);
